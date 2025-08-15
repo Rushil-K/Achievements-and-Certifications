@@ -1,4 +1,4 @@
-# Certifications & Achievements
+# Portfolio
 
 ## Academic Qualifications
 - **Bachelor of Commerce (2020–2023)** – Zakir Husain Delhi College (Evening), University of Delhi *(Enrolment No: 20ZHCEBCOM000117)*  
