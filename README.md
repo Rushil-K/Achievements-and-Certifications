@@ -76,7 +76,11 @@
 - **Sports Achievements** – FORE School of Management *(2025)*  
   - 2nd Position – Agnitraya XI, IIM Kashipur  
   - 3rd Position – Adrenaline’25, IIFT Delhi  
-- **Mr. Righteous Award** – The Army Public School, Dhaula Kuan *(2019–20)*  
+- **Mr. Righteous Award** – The Army Public School, Dhaula Kuan *(2019–20)*
+
+---
+
+**All the certificates can be viewed here:** [Click Here](https://drive.google.com/file/d/1mBr78aHKBxmRHalaoAFCE-un_UVJiAN5/view?usp=sharing)
 
 
 <!-- Full-width animated footer -->
