@@ -1,4 +1,5 @@
-# Portfolio of Rushil Kohli
+<!-- Full-width animated header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,100:1976D2&height=180&section=header&text=Portfolio%20of%20Rushil%20Kohli&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%">
 
 # Certifications & Achievements
 
@@ -6,10 +7,10 @@
 
 | Qualification                              | Institution                                             | Year       | Division / CGPA |
 |--------------------------------------------|---------------------------------------------------------|------------|-----------------|
-| **PGDM(ISA) Big Data Analytics and Marketing** | FORE School of Management, New Delhi | 2024-2026 | Year 1, CGPA: 8.03 |
+| **PGDM(ISA) Big Data Analytics and Marketing** | FORE School of Management, New Delhi | 2024–2026 | Year 1, CGPA: 8.03 |
 | **Bachelor of Commerce**                   | Zakir Husain Delhi College (Evening), University of Delhi | 2020–2023 | First Division, CGPA: 8.273 |
-| **CBSE Class XII**                          | The Army Public School, Dhaula Kuan                     | 2020       | Aggregate 6 subjects, 85.17%              |
-| **CBSE Class X**                            | The Army Public School, Dhaula Kuan                     | 2018       | Aggregate 5 subjects, 87.6%           |
+| **CBSE Class XII**                          | The Army Public School, Dhaula Kuan                     | 2020       | Aggregate 6 subjects, 85.17% |
+| **CBSE Class X**                            | The Army Public School, Dhaula Kuan                     | 2018       | Aggregate 5 subjects, 87.6% |
 
 ---
 
@@ -78,3 +79,7 @@
   - 2nd Position – Agnitraya XI, IIM Kashipur  
   - 3rd Position – Adrenaline’25, IIFT Delhi  
 - **Mr. Righteous Award** – The Army Public School, Dhaula Kuan *(2019–20)*  
+
+
+<!-- Full-width animated footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1976D2,100:0D47A1&height=120&section=footer" width="100%">
