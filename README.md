@@ -1,8 +1,6 @@
 <!-- Full-width animated header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D47A1,100:1976D2&height=180&section=header&text=Portfolio%20of%20Rushil%20Kohli&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" width="100%">
 
-# Certifications & Achievements
-
 ## Academic Qualifications
 
 | Qualification                              | Institution                                             | Year       | Division / CGPA |
