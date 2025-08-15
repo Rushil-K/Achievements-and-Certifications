@@ -9,7 +9,7 @@
 ---
 
 ## Internships
-- **Operations Team Intern – Setting Up PPH KPIs** – Blue Dart Express Ltd *(Apr 2025 – Jun 2025)*  
+- **Analytics Intern Operations Team – Setting Up PPH KPIs** – Blue Dart Express Ltd *(Apr 2025 – Jun 2025)*  
 - **International Affairs & Trade Fairs Committee Intern** – PHD Chamber of Commerce and Industry *(Aug 2023)*  
 
 ---
