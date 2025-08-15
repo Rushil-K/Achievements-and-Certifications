@@ -6,9 +6,10 @@
 
 | Qualification                              | Institution                                             | Year       | Division / CGPA |
 |--------------------------------------------|---------------------------------------------------------|------------|-----------------|
+| **PGDM(ISA) Big Data Analytics and Marketing** | FORE School of Management, New Delhi | 2024-2026 | Year 1, CGPA: 8.03 |
 | **Bachelor of Commerce**                   | Zakir Husain Delhi College (Evening), University of Delhi | 2020–2023 | First Division, CGPA: 8.273 |
-| **CBSE Class XII**                          | The Army Public School, Dhaula Kuan                     | 2020       | —               |
-| **CBSE Class X**                            | The Army Public School, Dhaula Kuan                     | 2018       | —               |
+| **CBSE Class XII**                          | The Army Public School, Dhaula Kuan                     | 2020       | Aggregate 6 subjects, 85.17%              |
+| **CBSE Class X**                            | The Army Public School, Dhaula Kuan                     | 2018       | Aggregate 5 subjects, 87.6%           |
 
 ---
 
